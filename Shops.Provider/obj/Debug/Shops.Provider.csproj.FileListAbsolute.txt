@@ -1,0 +1,4 @@
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\bin\Debug\Shops.Provider.dll
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\bin\Debug\Shops.Provider.pdb
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\obj\Debug\Shops.Provider.dll
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\obj\Debug\Shops.Provider.pdb

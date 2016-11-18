@@ -1,0 +1,12 @@
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Юра\Dropbox\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Юра\Dropbox\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Юра\Dropbox\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
