@@ -22,15 +22,15 @@ namespace ShopsWebApi.Controllers
         }
 
         // GET: api/Shops
-        public IQueryable<Shop> GetShops()
+        public IHttpActionResult GetShops()
         {
-            return db.Shops;
+            return Ok(db.Shops);
         }
         //Get:api/ShopsDictionary
         [Route("api/ShopsDictionary")]
-        public IDictionary<int, string> GetShopsDictionary()
+        public IHttpActionResult GetShopsDictionary()
         {
-            return db.Shops.ToDictionary(k => k.ShopId, v => v.ShopName);
+            return Ok(db.Shops.ToDictionary(k => k.ShopId, v => v.ShopName));
         }
 
         // GET: api/Shops/5

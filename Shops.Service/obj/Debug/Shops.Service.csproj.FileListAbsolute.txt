@@ -1,0 +1,5 @@
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Service\bin\Debug\Shops.Service.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Service\bin\Debug\Shops.Service.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Service\obj\Debug\Shops.Service.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Service\obj\Debug\Shops.Service.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Service\obj\Debug\Shops.Service.pdb

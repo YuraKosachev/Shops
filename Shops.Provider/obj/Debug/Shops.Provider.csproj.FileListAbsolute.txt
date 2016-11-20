@@ -2,3 +2,18 @@ D:\Новая папка\УЧЕБА\Тестовае задание от Lightpo
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\bin\Debug\Shops.Provider.pdb
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\obj\Debug\Shops.Provider.dll
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops.Provider\obj\Debug\Shops.Provider.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\obj\Debug\Shops.Provider.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\obj\Debug\Shops.Provider.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\Shops.Provider.dll.config
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\Shops.Provider.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\Shops.Provider.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\Newtonsoft.Json.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.Extensions.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.Formatting.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.Primitives.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.WebRequest.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\Newtonsoft.Json.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\bin\Debug\System.Net.Http.WebRequest.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops.Provider\obj\Debug\Shops.Provider.csprojResolveAssemblyReference.cache

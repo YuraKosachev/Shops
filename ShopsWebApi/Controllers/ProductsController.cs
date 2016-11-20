@@ -22,15 +22,15 @@ namespace ShopsWebApi.Controllers
         }
 
         // GET: api/Products
-        public IQueryable<Product> GetProducts()
+        public IHttpActionResult GetProducts()
         {
-            return db.Products;
+            return Ok(db.Products);
         }
         //Get: api/ShopProducts
         [Route("api/ShopProducts")]
-        public IQueryable<Product> GetShopProducts(int id)
+        public IHttpActionResult GetShopProducts(int id)
         {
-            return db.Products.Where(shop=>shop.ShopId == id);
+            return Ok(db.Products.Where(shop=>shop.ShopId == id));
         }
         // GET: api/Products/5
         [ResponseType(typeof(Product))]

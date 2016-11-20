@@ -30,3 +30,35 @@ D:\Новая папка\УЧЕБА\Тестовае задание от Lightpo
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops\obj\Debug\Shops.csprojResolveAssemblyReference.cache
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops\obj\Debug\Shops.dll
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\Shops\obj\Debug\Shops.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.dll.config
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Antlr3.Runtime.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\EntityFramework.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Microsoft.Web.Infrastructure.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Newtonsoft.Json.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Net.Http.Formatting.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Http.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Http.WebHost.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Mvc.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Optimization.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Providers.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Razor.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.WebPages.Deployment.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.WebPages.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.WebPages.Razor.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\WebGrease.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\EntityFramework.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Newtonsoft.Json.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Net.Http.Formatting.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Http.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Http.WebHost.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Mvc.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.Razor.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.WebPages.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.WebPages.Deployment.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.Web.WebPages.Razor.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\obj\Debug\Shops.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\obj\Debug\Shops.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\obj\Debug\Shops.csprojResolveAssemblyReference.cache

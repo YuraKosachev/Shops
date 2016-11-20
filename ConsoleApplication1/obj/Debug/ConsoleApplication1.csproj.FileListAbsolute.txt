@@ -10,3 +10,13 @@ D:\Новая папка\УЧЕБА\Тестовае задание от Lightpo
 C:\Users\Юра\Dropbox\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Юра\Dropbox\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Юра\Dropbox\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\Shops.Provider.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ConsoleApplication1\bin\Debug\Shops.Provider.pdb

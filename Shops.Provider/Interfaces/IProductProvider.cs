@@ -9,6 +9,6 @@ namespace Shops.Provider.Interfaces
 {
     public interface IProductProvider:IProvider<ProductModelProvider>
     {
-        IEnumerable<ProductModelProvider> GetShopProducts(int id);
+        IEnumerable<ProductModelProvider> GetShopProducts(ProductModelProvider model);
     }
 }

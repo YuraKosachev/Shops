@@ -37,3 +37,42 @@ D:\Новая папка\УЧЕБА\Тестовае задание от Lightpo
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.Migrations.initial.resources
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.csproj.GenerateResource.Cache
 D:\Новая папка\УЧЕБА\Тестовае задание от Lightpoint\Shops\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.Migrations.add_setting_Shopid.resources
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\ShopsWebApi.dll.config
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\ShopsWebApi.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\ShopsWebApi.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\Antlr3.Runtime.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\EntityFramework.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\EntityFramework.SqlServer.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\Newtonsoft.Json.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Net.Http.Formatting.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Helpers.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Http.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Http.WebHost.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Mvc.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Optimization.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Razor.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.WebPages.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.WebPages.Razor.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\WebGrease.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\EntityFramework.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\EntityFramework.SqlServer.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\Newtonsoft.Json.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Net.Http.Formatting.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Helpers.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Http.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Http.WebHost.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Mvc.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Optimization.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.Razor.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.WebPages.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\System.Web.WebPages.Razor.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\bin\Antlr3.Runtime.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.Migrations.initial.resources
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.Migrations.add_setting_Shopid.resources
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.csproj.GenerateResource.Cache
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\ShopsWebApi\obj\Debug\ShopsWebApi.pdb

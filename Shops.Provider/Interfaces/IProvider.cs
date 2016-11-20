@@ -10,8 +10,9 @@ namespace Shops.Provider.Interfaces
         where TModel:class
     {
         IEnumerable<TModel> GetAll();
+        TModel GetItem(TModel model);
         void Delete(TModel model);
-        int Create(TModel model);
+        void Create(TModel model);
         void Update(TModel model);
     }
 }
