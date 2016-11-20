@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper, Version=5.1.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.5.1.1\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,11 +47,11 @@
     <Compile Include="Interfaces\IService.cs" />
     <Compile Include="Interfaces\IShopService.cs" />
     <Compile Include="IServiceFactory.cs" />
-    <Compile Include="Mapper\ExtensionMethods.cs" />
     <Compile Include="ServiceFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServiceModel\ProductServiceModel.cs" />
     <Compile Include="ServiceModel\ShopServiceModel.cs" />
+    <Compile Include="Services\ProductService.cs" />
     <Compile Include="Services\Service.cs" />
     <Compile Include="Services\ShopService.cs" />
   </ItemGroup>
@@ -56,6 +60,10 @@
       <Project>{7a86ddc5-ced2-47cb-b2f6-5a8dd33fb440}</Project>
       <Name>Shops.Provider</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

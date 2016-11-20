@@ -62,3 +62,9 @@ E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\System.
 E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\obj\Debug\Shops.dll
 E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\obj\Debug\Shops.pdb
 E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\obj\Debug\Shops.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\AutoMapper.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.Service.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.Provider.dll
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.Service.pdb
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\AutoMapper.xml
+E:\УЧЕБА\Тестовое задание Lightpoint\Shops\Shops\bin\Shops.Provider.pdb

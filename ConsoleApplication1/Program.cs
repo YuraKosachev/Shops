@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json;
 using Shops.Provider;
+using Shops.Service;
 
 namespace ConsoleApplication1
 {
@@ -48,10 +49,10 @@ namespace ConsoleApplication1
             //    //return tokenDictionary;
             //}
 
-            IProviderFactory provider = new ProviderFactory();
-
-            var obj = provider.ShopsProvider.GetAll();
-
+            //IProviderFactory provider = new ProviderFactory();
+            IServiceFactory service = new ServiceFactory();
+            //var obj = provider.ShopsProvider.GetAll();
+            var obj = service.ShopService.GetAll();
             foreach (var item in obj) 
             Console.WriteLine(item.ShopAddress);
             Console.ReadLine();
